@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    background: rgb(27,51,38);
+    background: linear-gradient(0deg, rgba(27,51,38,1) 0%, rgba(21,33,33,1) 77%);
+
+}
+
+
+.registerForm{
+    background-color: #ded1de;
+    background-image: linear-gradient(315deg, #ded1de 0%, #b5e7ed 100%);       
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid rgb(27,51,38);
+    height: auto;
+    border-radius: 25px;
+    box-shadow: 10px 5px 5px;
+}
+
+.registerForm h1{
+    text-align: center;
+    color: #0B2D1A;
+}
+
+.registerForm p{
+    text-align: center;
+    color: #0B2D1A;
+}
+.registerForm a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: #0B2D1A;
+}
+
+.registerForm a:hover{
+    color: maroon;
+}
+
+.registerForm input{
+     font-family: 'Poppins',sans-serif;
+     font-size: 16px;
+     width: 450px;
+     padding: 1.5%;
+     display: block;
+     margin : 0 auto;
+     border-radius: 10px;
+     color: #0B2D1A;
+}
+
+.registerForm button{
+    background-color: #0B2D1A;
+    font-family: 'Poppins',sans-serif;
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    padding: 2%;
+    color: #EDEDED;
+    transition: 300ms;
+}
+
+.registerForm button:hover{
+    background-color: #EDEDED;
+    color: #0B2D1A;
+    cursor: pointer;
+}
+
+
+  

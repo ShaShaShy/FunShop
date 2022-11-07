@@ -1,0 +1,143 @@
+html, body {
+    height: 100%;
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    background: rgb(27,51,38);
+    background: linear-gradient(0deg, rgba(27,51,38,1) 0%, rgba(21,33,33,1) 77%);
+    background-repeat: no-repeat;
+    scroll-behavior: smooth;
+}
+
+h1{
+
+    text-align: center;
+    color: #EDEDED;
+}
+
+ul li a{
+    font-size: 35px;
+    color: #0B2D1A;
+    transition: 300ms;
+}
+
+ul li a:hover{
+    color: #4B4453;
+    
+}
+
+.custom-shape-divider-bottom-1667696478 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1667696478 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1667696478 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.mnav{
+    padding-top: 2%;
+}
+
+.mnav li a{
+    font-family: 'Poppins',sans-serif;
+    color: #EDEDED;
+    transition: 500ms;
+}
+
+.mnav li a:hover{
+    color: #00C9A7;
+}
+
+
+.intro-0{
+    font-family: 'Poppins',sans-serif;
+    text-align: center;
+    margin-bottom: 8%;
+}
+
+.intro-0 h1{
+    margin-top: 3%;
+    text-align: center;
+    font-size: 45px;
+}
+.intro-0 p{
+    color: #ffffff;
+}
+
+.intro-0 img{
+    width: 26%;
+}
+
+.intro-0 .shopbtn{
+    font-family: 'Poppins', sans-serif;
+    padding: 1%;
+    width: 225px;
+    border-radius: 10px;
+    margin: 2%;
+    color: #000000;
+    transition: 400ms;
+    background-color: #00C9A7;
+    box-shadow: 10px 2px 10px 2px;
+}
+
+.intro-0 .shopbtn:hover{
+    background-color: #EDEDED;
+    color: #000000;
+}
+
+.mybutton{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.about{
+    font-family: 'Poppins',sans-serif;
+    margin-top: 10%;
+    padding: 6%;
+
+}
+
+.about p{
+    color: #4D8076;
+}
+
+.about h1{
+    color: #4D8076;
+}
+
+.about img{
+    width: 15%;
+    margin: 0 auto;
+    display: block;
+}
+
+.findus{
+    font-family: 'Poppins',sans-serif;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+
+.findus h1{
+    color: #4D8076;
+}
+
+.findus p{
+    color: #4D8076;
+}
